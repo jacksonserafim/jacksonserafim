@@ -1,8 +1,4 @@
-## Jackson: Navigating Code and Creativity | Web Developer & Tech Explorer
-
-Hey there! I'm Jackson, a passionate explorer of programming and technology. With a solid foundation in crafting web applications using HTML, CSS, and JavaScript, I find joy in turning ideas into interactive digital experiences. My journey includes diving into backend development with frameworks like Flask and mastering databases like PostgreSQL. I've also tackled the intricacies of authentication through Firebase's systems. Navigating the world of version control, I'm well-versed in utilizing Git/GitHub to orchestrate seamless project management.
-
-##
+### Meus olhos doem toda vez que entro aqui e revisito meus códigos antigos.
 
 ### My personal projects
 
