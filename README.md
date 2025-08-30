@@ -1,5 +1,3 @@
-### Meus olhos doem toda vez que entro aqui e revisito meus códigos antigos.
-
 ### My personal projects
 
 - 📥 [DAS Auto Downloader](https://github.com/jacksonserafim/geradorDAS)
